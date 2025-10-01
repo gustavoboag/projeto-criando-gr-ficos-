@@ -41,8 +41,7 @@ plt.show()
 plt.figure(3)
 numeric_cols = ['Nota', 'N_Avaliações', 'Desconto', 'Preço', 'Qtd_Vendidos_Cod']
 correlation_matrix = df[numeric_cols].corr()
-sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0,
-            square=True, fmt='.2f', cbar_kws={'shrink': 0.8})
+sns.heatmap(correlation_matrix, annot=True, cmap='coolwarm', center=0,square=True, fmt='.2f', cbar_kws={'shrink': 0.8})
 plt.title('Mapa de Calor - Correlação entre Variáveis', fontsize=14, fontweight='bold')
 plt.tight_layout()
 plt.show()
