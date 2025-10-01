@@ -21,7 +21,7 @@ O projeto analisa um dataset de produtos de e-commerce contendo informações so
 
 ## 📁 Estrutura do Projeto
 projeto-criando-gr-ficos-/
--└── README.md # Este arquivo
+- └── README.md # Este arquivo
 -│
 -|____  📁projeto final grafico
         -├── ecommerce_estatistica.csv # Dataset principal
