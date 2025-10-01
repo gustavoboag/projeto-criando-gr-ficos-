@@ -20,12 +20,15 @@ O projeto analisa um dataset de produtos de e-commerce contendo informações so
 - **NumPy** - Cálculos numéricos
 
 ## 📁 Estrutura do Projeto
-projeto-criando-gr-ficos-/
-- └── README.md # Este arquivo
-- │___
--    └──  📁projeto final grafico
-        - ── ecommerce_estatistica.csv # Dataset principal
-        - ├── gagrafico.py# Script de análise principal
+projeto-criando-graficos/
+│
+├── README.md                  # Documentação principal
+│
+├── 📂 projeto final grafico
+│   └── ecommerce_estatistica.csv   # Dataset principal
+│   └── grafico.py              # Script de análise principal
+└
+
 
           
 ## 📊 Gráficos e Análises Implementadas
