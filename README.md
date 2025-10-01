@@ -13,7 +13,7 @@ O projeto analisa um dataset de produtos de e-commerce contendo informações so
 
 ## 🛠 Tecnologias Utilizadas
 
-- **Python 3.x**
+- **Python 
 - **Pandas** - Manipulação de dados
 - **Matplotlib** - Visualizações gráficas
 - **Seaborn** - Visualizações estatísticas avançadas
