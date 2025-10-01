@@ -21,11 +21,11 @@ O projeto analisa um dataset de produtos de e-commerce contendo informações so
 
 ## 📁 Estrutura do Projeto
 projeto-criando-gr-ficos-/
-'\N'└── README.md # Este arquivo
-'\N'│
-'\N'|____  📁projeto final grafico
-        '\N'├── ecommerce_estatistica.csv # Dataset principal
-        '\N'├── gagrafico.py# Script de análise principal
+\N└── README.md # Este arquivo
+\N│
+\N|____  📁projeto final grafico
+        \N├── ecommerce_estatistica.csv # Dataset principal
+        \N├── gagrafico.py# Script de análise principal
 
           
 ## 📊 Gráficos e Análises Implementadas
