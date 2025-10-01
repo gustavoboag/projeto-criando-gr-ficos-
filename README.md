@@ -1,6 +1,6 @@
-# 📊 Análise Estatística de E-commerce 
+# 📊 Pratique o conhecimento em criação de graficos a parti de um datafreme
 
-Este projeto realiza uma análise estatística completa de dados de e-commerce, explorando padrões de vendas, avaliações de produtos, preços e comportamento do consumidor através de visualizações interativas.
+Este projeto tem como objetivo **praticar e demonstrar** a criação de diversos tipos de gráficos a partir de um DataFrame, utilizando dados reais de e-commerce para explorar técnicas de visualização de dados.
 
 ## 📋 Sobre o Projeto
 
@@ -22,8 +22,8 @@ O projeto analisa um dataset de produtos de e-commerce contendo informações so
 ## 📁 Estrutura do Projeto
 projeto-criando-gr-ficos-/
 - └── README.md # Este arquivo
-- │
-- └──  📁projeto final grafico
+- │___
+-    └──  📁projeto final grafico
         - ── ecommerce_estatistica.csv # Dataset principal
         - ├── gagrafico.py# Script de análise principal
 
