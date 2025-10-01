@@ -24,7 +24,7 @@ projeto-criando-graficos/
 │
 ├── README.md                  # Documentação principal
 │
-├── 📂 projeto final grafico
+├── 📂 projeto_grafico
 │   └── ecommerce_estatistica.csv   # Dataset principal
 │   └── grafico.py              # Script de análise principal
 └
