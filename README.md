@@ -60,7 +60,10 @@ projeto-criando-gr-ficos-/
 
 ### Pré-requisitos
 ```bash
-pip install pandas 
+pip install pandas
+```bash
 pip install seaborn numpy
+```bash
 pip install matplotlib
+```bash
 pip install numpy
