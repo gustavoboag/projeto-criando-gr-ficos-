@@ -1,6 +1,6 @@
 # 📊 Pratique o conhecimento em criação de graficos a parti de um datafreme
 
-Este projeto tem como objetivo **praticar e demonstrar** a criação de diversos tipos de gráficos a partir de um DataFrame, utilizando dados reais de e-commerce para explorar técnicas de visualização de dados.
+Este projeto tem como objetivo **praticar e demonstrar** a criação de diversos tipos de gráficos a partir de um DataFrame, utilizando dados de  um e-commerce para explorar técnicas de visualização de dados.
 
 ## 📋 Sobre o Projeto
 
