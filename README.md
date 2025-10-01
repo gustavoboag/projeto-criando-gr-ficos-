@@ -54,7 +54,6 @@ projeto-criando-gr-ficos-/
 
 ### 7. 📐 **Gráficos de Regressão (Melhores Comparações)**
 - Preço vs Desconto
-- 
 
 ## 🚀 Como Executar
 
